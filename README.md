@@ -3,9 +3,9 @@
 I'm Eugene, an aspiring data analyst from Malaysia. 
 
 ### ✨ About Me ✨
-- Biomedical Sciences graduate turned Data Analyst
-- Transition to data since June 2022
-- Enrolled in courses to upskill myself in SQL, Python and Tableau
+- 👨🏼‍🔬 Biomedical Sciences graduate turned Data Analyst
+- 📊 Transition to data since June 2022
+- 📝 Enrolled in courses to upskill myself in SQL, Python and Tableau
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau
