@@ -19,7 +19,7 @@ I'm Eugene, an aspiring data analyst from Malaysia.
 - Exploring Google Analytics and Google Data Studio ecosystem 
 - Course: TalentLabs Certified Associate in Business Analytics
 
-### 🤝 🏼Connect with Me
+### 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/eugenechua8/)
 - [Medium](https://medium.com/@eugenechua88)
 
