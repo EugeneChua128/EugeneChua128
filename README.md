@@ -13,6 +13,7 @@ I'm Eugene, an aspiring data analyst from Malaysia.
 
 ### 🧩 Interested In 🧩
 - Hope to learn about **Machine Learning and Artificial Intelligence** 
+- Passionate about understanding data and translating it into a storytelling
 
 ### 🌱 Currently 🌱
 - Brushing up on data cleaning and wrangling skills using SQL
