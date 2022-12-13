@@ -16,8 +16,8 @@ I'm Eugene, an aspiring data analyst from Malaysia.
 - Passionate about understanding data and translating it into a storytelling
 
 ### 🌱 Currently 🌱
-- Brushing up on data cleaning and wrangling skills using SQL
-- Exploring Google Analytics and Google Data Studio ecosystem 
+- Brushing up on data cleaning and wrangling skills using SQL and Python
+- Exploring Google Analytics and Google Looker Studio ecosystem 
 - Course: TalentLabs Certified Associate in Business Analytics
 
 ### 🤝 Connect with Me
