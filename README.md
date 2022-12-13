@@ -8,7 +8,7 @@ I'm Eugene, an aspiring data analyst from Malaysia.
 - 📝 Enrolled in courses to upskill myself in SQL, Python and Tableau
 
 ### 💡 Core Competencies 💡
-- Tools: SQL, Python, Tableau
+- Tools: SQL, Python, Tableau/Power BI/Google Looker Studio, Google Colab/Jupyter Notebook
 - Skills: Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
 ### 🧩 Interested In 🧩
